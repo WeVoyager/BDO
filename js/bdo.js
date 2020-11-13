@@ -304,7 +304,7 @@ window.addEventListener('DOMContentLoaded', function () {
             });
 
             setTimeout(function () {
-                part03.style = "background: url('../img/common/warrior_bg.jpg') no-repeat center / 100% 100%";
+                part03.style = "background: url('img/common/warrior_bg.jpg') no-repeat center / 100% 100%";
                 part03.classList.add('detail');
                 content2.style = "visibility: visible;"
                 detailPage2()
